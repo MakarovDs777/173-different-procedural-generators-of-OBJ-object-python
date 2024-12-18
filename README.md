@@ -1,4 +1,4 @@
-# 100-different-procedural-generators-of-OBJ-objects
+# 173-different-procedural-generators-of-OBJ-objects
 
 ![148](https://github.com/user-attachments/assets/51b30dee-b2ca-47b3-88ad-e28063fe75d7)
 ![74](https://github.com/user-attachments/assets/97fb92a5-0d49-4b36-9adf-f7f9ef49a95f)
